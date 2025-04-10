@@ -1,2 +1,2 @@
-# Portafolio_JR_MachineLearning
-Notebooks relacionados a Machine Learning
+# Portafolio
+Notebooks relacionados a Ciencia de Datos incluyendo EDA y Aprendizaje Supervisado y No Supervisado
